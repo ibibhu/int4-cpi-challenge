@@ -18,3 +18,9 @@ Some of the key aspects of the script should be as follows:
 - Handle different field types, e.g. numbers, String.
 - Each parameter can contain only single values, and the parameters cannot be repeated.
 - Only equality operator for the OData filter criteria is required.
+
+# Test Result
+
+![Test Result](https://github.com/ibibhu/int4-cpi-challenge/blob/master/TestResult.PNG)
+
+
