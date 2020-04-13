@@ -19,8 +19,17 @@ Some of the key aspects of the script should be as follows:
 - Each parameter can contain only single values, and the parameters cannot be repeated.
 - Only equality operator for the OData filter criteria is required.
 
+# Simulation Result
+- Input
+ 
+ ![Input](https://github.com/ibibhu/int4-cpi-challenge/blob/master/Images/Input.PNG)
+
+- Output
+
+![Output](https://github.com/ibibhu/int4-cpi-challenge/blob/master/Images/Output.PNG)
+
 # Test Result
 
-![Test Result](https://github.com/ibibhu/int4-cpi-challenge/blob/master/TestResult.PNG)
+![Test Result](https://github.com/ibibhu/int4-cpi-challenge/blob/master/Images/TestResult.PNG)
 
 
